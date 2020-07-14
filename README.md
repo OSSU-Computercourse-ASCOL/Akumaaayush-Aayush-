@@ -1,5 +1,5 @@
-# -add-Name-introduction-
-this is an introduction on how you should setup your own personalized repository 
+# -UPDATE-
+---
 
 
-just add your name on add name and remove introduction and do everything else personal within your own repository.
+Currently working to get through [_freecodecamp_](www.freecodecamp.org)'s Javascript course. Will get into OSSU's workflow once I'm done. －O－
